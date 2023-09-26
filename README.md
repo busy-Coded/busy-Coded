@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @busy-Coded
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... as a student but wants  to study omputer science in the future 
+- 🌱 I’m currently learning ... as a student but wants  to study computer science in the future 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can reach me through my email JohnbarnorLokko@gmail.com
 
